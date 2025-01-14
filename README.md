@@ -1,4 +1,4 @@
-# Apollo Pharmacy Dashboard
+# Papollo Pharmacy Dashboard
 
 ## Overview
 This repository contains a Power BI dashboard report for Apollo Pharmacy, providing key insights into hospital operations, patient data, and financial metrics. The dashboard helps in making data-driven decisions to improve efficiency and patient care.
